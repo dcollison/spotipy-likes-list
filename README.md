@@ -22,7 +22,7 @@ Requires setting up an app through the [Spotify Developer Dashboard](https://dev
 
 ## Run
 
-Run using "SpotipyLikesList.py
+Run using "SpotipyLikesList.py"
 
 ## Credits
 
